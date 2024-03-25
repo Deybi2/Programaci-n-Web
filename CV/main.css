@@ -1,0 +1,25 @@
+.encabezado{
+    text-align:right;
+}
+.alineamiento{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.letra{
+    text-align: center;
+}
+
+.caja-foto{
+    width: 20%;
+}
+
+.caja-titulo{
+    width: 90%;
+    background-color:rgb(245, 230, 208);
+    color:rgba(37, 39, 41, 0.747);
+}
+
+.imagen-cv{
+    width:200px ;
+}
