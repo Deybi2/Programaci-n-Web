@@ -1,0 +1,21 @@
+1-La propiedad de CSS que permite cambiar el comportamiento de los elementos en un contenedor para un 
+diseño flexible y eficiente es display: flex; o display: grid;.
+
+2-La propiedad de CSS quepermite definir el espacio entre los elementos hijos es justify-content y 
+align-items.
+
+3-La diferencia entre justify-content y align-items es que justify-content sirve para distribuir el espacio 
+entre los elementos separados y align-items sirve para que alinear los elementos hijos de una misma fila 
+entre si
+
+4-La propiedad de CSS que se utiliza para definir el tamaño de las filas y columnas en un contenedor grid
+es width, la cual nos permite cambiar al tamaño al que deseamos.
+
+5-La diferencia es que en el display: grid se puede crear una cuadricula bidimensional o sea que se puede 
+crear columnas y filas al mismo tiempo, mientras que en el display: flex solo se puede de una dimension,
+columna o fila
+
+6-Para alinear los elementos hijos dentro de un contenedor flex en CSS, puedes utilizar las propiedades 
+justify-content, align-items y align-content.
+
+

@@ -1,0 +1,20 @@
+.grid{
+    display:grid;
+    grid-template-columns: 300px 300px 300px;
+}
+
+.horizontal{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.rostis{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.rostis2{
+    display: flex;
+    justify-content:center;
+}
