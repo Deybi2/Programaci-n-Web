@@ -55,28 +55,163 @@
             text-align: center;
         }
 
- .pokemon-card {
+ .Lucario-card {
             display: grid;
             grid-template-columns: 1fr;
             grid-template-rows: auto auto auto;
-            background-color: #f9f9f9;
+            background-color: #cf180b;
             border-radius: 10px;
             padding: 10px;
             margin: 10px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
 
-.pokemon-name {
+.Lucario-name {
             font-weight: bold;
             font-size: 1.2rem;
         }
 
-.pokemon-type {
+.Lucario-type {
             font-size: 0.9rem;
-            color: #555;
+            color: #1a0707;
         }
 
-.pokemon-image {
+.Lucario-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+.Kartana-card {
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto auto auto;
+            background-color: #69ee1c;
+            border-radius: 10px;
+            padding: 10px;
+            margin: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+.Kartana-name {
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+.Kartana-type {
+            font-size: 0.9rem;
+            color: #1a0707;
+        }
+
+.Kartana-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+.Rayquaza-card {
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto auto auto;
+            background-color: #0b721c;
+            border-radius: 10px;
+            padding: 10px;
+            margin: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+.Rayquaza-name {
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+.Rayquaza-type {
+            font-size: 0.9rem;
+            color: #1a0707;
+        }
+
+.Rayquaza-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+.Ninetales-de-Alola-card {
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto auto auto;
+            background-color: #11caeb;
+            border-radius: 10px;
+            padding: 10px;
+            margin: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+.Ninetales-de-Alola-name {
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+.Ninetales-de-Alola-type {
+            font-size: 0.9rem;
+            color: #1a0707;
+        }
+
+.Ninetales-de-Alola-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+.Swampert-card {
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto auto auto;
+            background-color: #1a6d7c;
+            border-radius: 10px;
+            padding: 10px;
+            margin: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+.Swampert-name {
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+.Swampert-type {
+            font-size: 0.9rem;
+            color: #1a0707;
+        }
+
+.Swampert-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+.Tyranitar-card {
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto auto auto;
+            background-color: #a18a05;
+            border-radius: 10px;
+            padding: 10px;
+            margin: 10px;
+            box-shadow: 0 2px 4px rgba(175, 147, 20, 0.1);
+        }
+
+.Tyranitar-name {
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+.Tyranitar-type {
+            font-size: 0.9rem;
+            color: #1a0707;
+        }
+
+.Tyranitar-image {
             max-width: 100%;
             height: auto;
             border-radius: 10px;
