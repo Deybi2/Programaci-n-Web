@@ -1,0 +1,16 @@
+.encabezado {
+    color: rgb(12, 51, 226);
+    font-family: sans-serif;
+}
+
+.lista {
+    margin: 5% auto;
+    padding:50px ;
+}
+
+.borde {
+    background-color: #69ee1c;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
