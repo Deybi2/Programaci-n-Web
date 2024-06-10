@@ -1,11 +1,13 @@
-import HolaMundo from "./components/Mi primer componente/MiPrimerComponente";
+import { Write } from "./components/Mi primer componente/MiPrimerComponente/Write";
+import { Estado } from "./components/estado/Estado";
+
 export default function App() {
 
   return (
-    <div>
-      <h1>Bienvenido a mi aplicación</h1>
-        <HolaMundo />
-    </div>
+    <>
+      <write name={"Nacho"} lastName={"Torres"}/>
+      <Estado/>
+    </>
   );
 }
 
